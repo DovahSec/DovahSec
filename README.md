@@ -12,9 +12,9 @@ I come from a previous career in aerospace welding. In late 2022, I decided to d
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/DovahSec/Active-Directory-Lab">Active Directory/SIEM Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/DovahSec/Active-Directory-Lab">Active Directory/SIEM Lab</a>| 
-| Active Directory and Ubuntu Server Configuration | <a href="https://github.com/DovahSec/Active-Directory-Lab">Active Directory/SIEM Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/DovahSec/Active-Directory-Lab">Active-Directory-SIEM-Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/DovahSec/Active-Directory-Lab">Active-Directory-SIEM-Lab</a>| 
+| Active Directory and Ubuntu Server Configuration | <a href="https://github.com/DovahSec/Active-Directory-Lab">Active-Directory-SIEM-Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab (Documentation in Progress)|
 | Incident Response Planning and Execution      | SOC Automation Lab (Documentation in Progress|
 | Scripting and Automation for Threat Mitigation & Alerts | SOC Automation Lab (Documentation in Progress)|
